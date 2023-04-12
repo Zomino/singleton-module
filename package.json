@@ -1,0 +1,23 @@
+{
+  "name": "singleton-module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zomino/singleton-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zomino/singleton-module/issues"
+  },
+  "homepage": "https://github.com/Zomino/singleton-module#readme",
+  "dependencies": {
+    "konnichiwa": "file:./konnichiwa"
+  },
+  "type": "module"
+}
